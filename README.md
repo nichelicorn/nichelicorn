@@ -4,8 +4,8 @@
 
 <p align="justify">I'm at the start of my software developing journey! Follow along as I learn and grow my skills, my awareness of the tech world, and other stuff 👩‍💻🛼🌱</p>
 
-- 🔭 I’m currently working on (Overlook Hotel)[https://github.com/nichelicorn/overlook-hotel], a hotel management app with integrated API
-- 🌱 I’m currently learning (React)[https://reactjs.org/]
+- 🔭 I’m currently working on [Overlook Hotel](https://github.com/nichelicorn/overlook-hotel), a hotel management app with integrated API
+- 🌱 I’m currently learning [React](https://reactjs.org/)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about propagating succulents!
