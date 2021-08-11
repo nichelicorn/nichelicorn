@@ -1,7 +1,13 @@
 ### Hi there 👋
+<style type="text/css">
+  h1, p {
+    text-align: center;
+    color: fuchsia;
+  }
 
 <h1>Hey, you! Welcome to my GitHub 🐙😸</h1>
 
+</style>
 <!--
 **nichelicorn/nichelicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
