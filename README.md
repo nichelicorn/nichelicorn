@@ -5,10 +5,11 @@
   }
 </style> -->
 
-<h1 align="center">Hey, you! 🌊</h1>
+<h1 align="center">🌊 Hey, you!</h1>
 
-<p>Welcome to my README! Thanks for stopping by. Feel free to have a look around. Want to know a little about me? I am driven by curiosity, a desire to learn and grow, and a love for people and the natural world. I value open collaboration and communication, and I believe that when people are informed and inspired anything is possible.</p>
+<p align="justify">Welcome to my README! Thanks for stopping by. Feel free to have a look around. Want to know a little about me? I am driven by curiosity. My favorite places are libraries, gardens, and the internet! Amazement is never in short supply when there is something to learn! I value open collaboration and communication, and I believe that when people are informed and inspired anything is possible.</p>
 
+<p>I'm at the start of my software developing journey! Follow along as I learn and grow my skills, my awareness of the tech world, and other stuff 👩‍💻🛼🌱</p>
 <!--
 **nichelicorn/nichelicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
