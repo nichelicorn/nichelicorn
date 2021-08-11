@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1>Hey, you! Welcome to my GitHub 🐙😸</h1>
+
 <!--
 **nichelicorn/nichelicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
