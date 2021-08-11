@@ -1,13 +1,13 @@
-### Hi there 👋
-<style type="text/css">
+<!-- <style type="text/css">
   h1, p {
     text-align: center;
     color: fuchsia;
   }
-</style>
+</style> -->
 
-<h1>Hey, you! Welcome to my GitHub profile 🐙😸</h1>
+<h1 align="center">Hey, you! 🌊</h1>
 
+<p>Welcome to my README! Thanks for stopping by. Feel free to have a look around. Want to know a little about me? I am driven by curiosity, a desire to learn and grow, and a love for people and the natural world. I value open collaboration and communication, and I believe that when people are informed and inspired anything is possible.</p>
 
 <!--
 **nichelicorn/nichelicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
