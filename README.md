@@ -6,7 +6,7 @@
   }
 </style>
 
-<h1>Hey, you! Welcome to my GitHub 🐙😸</h1>
+<h1>Hey, you! Welcome to my GitHub profile 🐙😸</h1>
 
 
 <!--
