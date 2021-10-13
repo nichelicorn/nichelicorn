@@ -6,7 +6,7 @@
 
 <p align="justify" font-family="Verdana" font-size="1em">I'm at the start of my software developing journey! Follow along as I learn and grow my skills, my awareness of the tech world, and other stuff 👩‍💻🛼🪴</p>
 
-- 🔭 I’m currently working on [Overlook Hotel](https://github.com/nichelicorn/overlook-hotel), a hotel management app with integrated API
+- 🔭 I’m currently working on [nichelicorn.dev](https://github.com/nichelicorn/nichelicornDev), my first website!
 - 🌱 I’m currently learning [React](https://reactjs.org/), [Gatsby](https://www.gatsbyjs.com/)
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -14,4 +14,3 @@
 <!-- - 📫 How to reach me: ... -->
 - 💚 Pronouns: she / her 
 - ⚡ Fun fact: My dream is to one day fly like Wonder Woman
-
